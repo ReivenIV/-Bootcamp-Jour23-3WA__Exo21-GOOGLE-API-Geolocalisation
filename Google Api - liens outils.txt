@@ -1,0 +1,28 @@
+/* GOOGLE API */
+On a 350 APIs dans google donc il faut bien choisir dans quel
+direction on veux aller avant de commencer le projet
+
+Documentation de l'API
+https://developers.google.com/
+
+//console de gestion de notre compte API google
+https://console.cloud.google.com/
+
+//Documentation API ->> map
+https://developers.google.com/maps/documentation/javascript/examples/map-geolocation
+
+//Documentation API ->> Search Box 
+https://developers.google.com/maps/documentation/javascript/examples/places-searchbox
+
+
+1 - créer votre compte googlde cloud
+vous pouvez utliliser votre gmail
+2- vous arrivez sur votre tableau de bord, tout en haut cliquez sur projets / créer un nouveau projet
+suivez les instructions
+3 - aller sur ce projet et dans API et services puis dans identifiants
+Créez votre clefs API
+4 - aller dans la bibliothèque d'api
+et sélectionnez les API dont nous avons besoin
+Map javascript api
+places api
+activez les
